@@ -52,7 +52,7 @@ public class App {
         }
         System.out.println();
         System.out.println("TOTAL TAXES: $ " + String.format("%.2f", sum));
-
+        System.out.println("End of application");
         sc.close();
     }
 }
